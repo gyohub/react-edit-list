@@ -16,7 +16,7 @@ Universal Editable List React Component
 # Installation
 
 ```shell
-npm i --save react-edit-layers
+npm i react-edit-list
 ```
 
 # Usage
